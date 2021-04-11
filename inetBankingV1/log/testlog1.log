@@ -1,0 +1,74 @@
+2021-04-11 12:32:21,231 [main] INFO ebanking - URL is opened: http://demo.guru99.com/v4/index.php
+2021-04-11 12:32:21,333 [main] INFO ebanking - Entered Username: mngr318948
+2021-04-11 12:32:23,409 [main] INFO ebanking - Entered Password.
+2021-04-11 12:32:27,293 [main] INFO ebanking - Clicked on Submitted.
+2021-04-11 12:32:27,304 [main] INFO ebanking - Test case is Passed.
+2021-04-11 12:32:34,426 [main] INFO ebanking - User Name Provided.
+2021-04-11 12:32:34,486 [main] INFO ebanking - Pasword Provided.
+2021-04-11 12:32:36,068 [main] INFO ebanking - Submitted.
+2021-04-11 12:32:36,085 [main] INFO ebanking - Login Passed.
+2021-04-11 12:32:39,148 [main] INFO ebanking - User Name Provided.
+2021-04-11 12:32:39,207 [main] INFO ebanking - Pasword Provided.
+2021-04-11 12:32:39,582 [main] INFO ebanking - Submitted.
+2021-04-11 12:32:41,713 [main] INFO ebanking - User Name Provided.
+2021-04-11 12:32:41,766 [main] INFO ebanking - Pasword Provided.
+2021-04-11 12:32:42,164 [main] INFO ebanking - Submitted.
+2021-04-11 12:32:44,438 [main] INFO ebanking - User Name Provided.
+2021-04-11 12:32:44,491 [main] INFO ebanking - Pasword Provided.
+2021-04-11 12:32:44,877 [main] INFO ebanking - Submitted.
+2021-04-11 12:32:46,962 [main] INFO ebanking - User Name Provided.
+2021-04-11 12:32:47,014 [main] INFO ebanking - Pasword Provided.
+2021-04-11 12:32:47,465 [main] INFO ebanking - Submitted.
+2021-04-11 12:32:57,075 [main] INFO ebanking - Browser has been initilized.
+2021-04-11 12:32:57,161 [main] INFO ebanking - Username Entered.
+2021-04-11 12:32:57,216 [main] INFO ebanking - Password Entered.
+2021-04-11 12:32:59,074 [main] INFO ebanking - Submitted.
+2021-04-11 12:33:02,078 [main] INFO ebanking - Providing Customer Details.
+2021-04-11 12:33:11,794 [main] INFO ebanking - Customer Details Validation started.
+2021-04-11 12:34:14,229 [main] INFO ebanking - User Name Provided.
+2021-04-11 12:34:14,292 [main] INFO ebanking - Pasword Provided.
+2021-04-11 12:34:14,858 [main] INFO ebanking - Submitted.
+2021-04-11 12:34:17,040 [main] INFO ebanking - User Name Provided.
+2021-04-11 12:34:17,092 [main] INFO ebanking - Pasword Provided.
+2021-04-11 12:34:17,845 [main] INFO ebanking - Submitted.
+2021-04-11 12:34:19,895 [main] INFO ebanking - User Name Provided.
+2021-04-11 12:34:19,948 [main] INFO ebanking - Pasword Provided.
+2021-04-11 12:34:20,363 [main] INFO ebanking - Submitted.
+2021-04-11 12:34:22,667 [main] INFO ebanking - User Name Provided.
+2021-04-11 12:34:22,721 [main] INFO ebanking - Pasword Provided.
+2021-04-11 12:34:23,136 [main] INFO ebanking - Submitted.
+2021-04-11 12:34:31,631 [main] INFO ebanking - Browser has been initilized.
+2021-04-11 12:34:31,705 [main] INFO ebanking - Username Entered.
+2021-04-11 12:34:31,764 [main] INFO ebanking - Password Entered.
+2021-04-11 12:34:33,456 [main] INFO ebanking - Submitted.
+2021-04-11 12:34:36,465 [main] INFO ebanking - Providing Customer Details.
+2021-04-11 12:34:46,825 [main] INFO ebanking - Customer Details Validation started.
+2021-04-11 12:34:46,838 [main] INFO ebanking - Test Case is Passed.
+2021-04-11 13:58:48,093 [main] INFO ebanking - URL is opened: http://demo.guru99.com/v4/index.php
+2021-04-11 13:58:48,200 [main] INFO ebanking - Entered Username: mngr318948
+2021-04-11 13:58:50,264 [main] INFO ebanking - Entered Password.
+2021-04-11 13:58:54,072 [main] INFO ebanking - Clicked on Submitted.
+2021-04-11 13:58:54,091 [main] INFO ebanking - Test case is Passed.
+2021-04-11 13:59:01,750 [main] INFO ebanking - User Name Provided.
+2021-04-11 13:59:01,808 [main] INFO ebanking - Pasword Provided.
+2021-04-11 13:59:03,371 [main] INFO ebanking - Submitted.
+2021-04-11 13:59:03,382 [main] INFO ebanking - Login Passed.
+2021-04-11 13:59:06,176 [main] INFO ebanking - User Name Provided.
+2021-04-11 13:59:06,226 [main] INFO ebanking - Pasword Provided.
+2021-04-11 13:59:06,610 [main] INFO ebanking - Submitted.
+2021-04-11 13:59:09,017 [main] INFO ebanking - User Name Provided.
+2021-04-11 13:59:09,069 [main] INFO ebanking - Pasword Provided.
+2021-04-11 13:59:09,455 [main] INFO ebanking - Submitted.
+2021-04-11 13:59:11,797 [main] INFO ebanking - User Name Provided.
+2021-04-11 13:59:11,850 [main] INFO ebanking - Pasword Provided.
+2021-04-11 13:59:12,226 [main] INFO ebanking - Submitted.
+2021-04-11 13:59:14,610 [main] INFO ebanking - User Name Provided.
+2021-04-11 13:59:14,663 [main] INFO ebanking - Pasword Provided.
+2021-04-11 13:59:15,051 [main] INFO ebanking - Submitted.
+2021-04-11 13:59:23,372 [main] INFO ebanking - Browser has been initilized.
+2021-04-11 13:59:23,444 [main] INFO ebanking - Username Entered.
+2021-04-11 13:59:23,501 [main] INFO ebanking - Password Entered.
+2021-04-11 13:59:24,788 [main] INFO ebanking - Submitted.
+2021-04-11 13:59:27,793 [main] INFO ebanking - Providing Customer Details.
+2021-04-11 13:59:38,540 [main] INFO ebanking - Customer Details Validation started.
+2021-04-11 13:59:38,552 [main] INFO ebanking - Test Case is Passed.
